@@ -1,5 +1,5 @@
 {
-  "homepage": "http://saykaren.github.io/deployMagic",
+  "homepage": "http://saykaren.github.io/deploy-react/",
   "name": "deployjuly2019",
   "version": "0.1.0",
   "private": true,
@@ -33,6 +33,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.1.0"
   }
 }
